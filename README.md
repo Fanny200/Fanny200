@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Fanny200
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning c++, first year college student, so I'm just getting started on this journey.
+- 👀 I’m interested in Big Data
 - 💞️ I’m looking to collaborate on github
 - 📫 for any assistance, fannyngomba723@gmail.com, I'd appreciate
 
